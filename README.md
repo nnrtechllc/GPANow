@@ -43,7 +43,7 @@ This mobile application was developed in SwiftUI using Xcode 14. Contained withi
 #### AI-Powered Assistance 🤖
 - Unlock the potential of GPANow's AI-driven assistance feature, meticulously crafted to provide intelligent support in your academic journey. Harnessing the power of machine learning algorithms, GPANow's AI model analyzes data streams within the application to deliver personalized guidance and insights. From optimizing study schedules to offering targeted recommendations for academic improvement, GPANow's AI assistant empowers users with actionable intelligence derived from coding-based data analysis techniques.
 
-####Enhanced Learning Opportunities 📚
+#### Enhanced Learning Opportunities 📚
 - Embark on a journey of continuous learning with GPANow's enhanced educational resources. Beyond GPA calculations, GPANow serves as a gateway to a wealth of coding-centric study materials, coding challenges, and educational insights. Whether you're seeking coding tutorials, programming tips, or resources to enhance your coding skills, GPANow provides a rich ecosystem of coding-centric learning opportunities to propel your coding proficiency to new heights. Experience the synergy of coding technology and education with GPANow.
 
 ## Resources Used 📚
