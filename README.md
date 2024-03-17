@@ -76,8 +76,8 @@ Xcode - https://apps.apple.com/us/app/xcode/id497799835
 Android Studio - https://developer.android.com/studio
 > Provides developers with the necessary tools, documentation, and resources to create, test, and deploy high-quality Android applications using Android Studio.
 
-## Feedback and Support 👥
-We value your feedback and are committed to continuously improving the SchoolMate application
+## Interactive Help Menu 👥
+We value your feedback and are committed to continuously improving the SchoolMate application so please access our interactive help menu within the application to submit specific feedback of improvements or possible changes for improving user experience. 
 
 ## License ©️ 
 
