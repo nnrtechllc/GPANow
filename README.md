@@ -27,6 +27,40 @@ Navigating through GPANow is intuitive and user-friendly, designed to provide a 
 ## Correlation 📈
 Our application, GPA Now, perfectly embodies the criteria and theme outlined in the prompt. GPA Now serves as a versatile tool designed to empower students across diverse educational institutions to calculate their grade point average (GPA) efficiently. With GPA Now, students can seamlessly compute both weighted and unweighted GPAs, aligning with the grading scales commonly used in schools. Its intuitive interface simplifies the process, allowing students to input their course grades and credit hours effortlessly. By providing accurate GPA results, GPA Now enables students to gain valuable insights into their academic performance. Whether students seek to gauge their overall progress or evaluate specific course achievements, GPA Now offers the necessary functionalities to support informed decision-making. As a reliable GPA calculation solution, GPA Now enhances the academic journey for students, providing them with the tools needed to track their performance and strive for academic success.
 
+## Appropriate Use of Comments, Naming Conventions, and Proper Formatting 💬
+
+In the development of GPANow, we prioritize clear communication and organization within our codebase. To achieve this, we adhere to the following principles:
+
+### Comments:
+- Each section of our code is thoroughly documented to provide insights into its purpose and functionality.
+- Comments are logically placed and serve as a guide for developers to navigate through the code effortlessly.
+- We ensure that our comments are meaningful and contribute to understanding the codebase.
+
+### Naming Conventions:
+- We follow consistent and descriptive naming conventions for variables, functions, and components.
+- Clear and intuitive names enhance readability and maintainability, making it easier for developers to comprehend and modify the code.
+
+### Proper Formatting:
+- Our codebase is formatted in a consistent and organized manner, following industry-standard formatting guidelines.
+- Proper indentation, spacing, and code structure improve readability and make the codebase more accessible to developers.
+
+## Appropriate Use of Classes, Modules, and Components 🧩
+
+- **Classes**: We ensure that each programming element is appropriately utilized and accurately placed within the codebase. Classes are employed to encapsulate related data and methods, promoting the object-oriented principles.
+  
+- **Modules**: Through our modules, our app achieves a structured architecture, making it easier to maintain and extend its features. Our imported modules include GitHub, Firebase, and Apple package dependencies.
+
+- **Components**: Components are employed to create self-contained units of functionality within the application, which abides by the law of encapsulation.
+
+## User Input Validation 🛡️
+
+- **Syntactical Validation**: We've incorporated syntactical validation methods to ensure that the data entered by users conforms to the expected format and structure. For example, when users input their grades, we verify that they're using the correct format, such as letter grades or numerical scores.
+
+- **Semantical Validation**: In addition to syntactical validation, we've implemented semantical validation to ensure that the data makes logical sense within our application. This involves validating not only the format but also the content. For instance, we check that the grades entered fall within the expected range for a given course.
+
+- **Advanced Validation Techniques**: We've gone beyond basic validation by implementing more advanced techniques. This includes cross-field validation to check for relationships between different input fields, ensuring consistency and accuracy in the entered data.
+
+
 ## Build Instructions 🔧
 This mobile application was developed in SwiftUI using Xcode 14. Contained within the competition submission is a folder named "FBLAFinalApp2024". It contains all the necessary components and resources related to the mobile application's implementation and functionality. To successfully build and run the mobile application, it is essential to meet the Xcode 14 requirements. Xcode 14 beta necessitates a Mac computer running macOS Monterey 12.4 or a later version. Therefore, ensure that your Mac operating system is updated accordingly. To execute a debug version of the application, you will need to have Xcode installed on your Mac. Xcode provides the necessary development tools and resources for building and running iOS applications. Additionally, depending on the target platform, you have two options: FBLANavigator.Android: To run the Android version of the application, you can either use an Android emulator within Xcode or connect an Android mobile device to your Mac. If you opt for the latter, make sure that the Android device has Developer Options enabled, and USB debugging turned on. This allows the device to establish a connection with Xcode and run the debug version of the Android project. FBLANavigator.iOS: To run the iOS version of the application, you can utilize the iOS simulator within Xcode. The simulator provides a virtual environment for testing and debugging iOS apps without requiring a physical iOS device.
 
@@ -75,6 +109,14 @@ Xcode - https://apps.apple.com/us/app/xcode/id497799835
 
 Android Studio - https://developer.android.com/studio
 > Provides developers with the necessary tools, documentation, and resources to create, test, and deploy high-quality Android applications using Android Studio.
+
+## Sources and Citations 📚
+
+- [Firebase](https://firebase.google.com/):  
+- [Xcode](https://developer.apple.com/xcode/): 
+- [GitHub](https://github.com/):
+- [Amazon Web Services (AWS)](https://aws.amazon.com/): 
+- [Monday.com](https://monday.com/): 
 
 ## Interactive Help Menu 👥
 We value your feedback and are committed to continuously improving the SchoolMate application so please access our interactive help menu within the application to submit specific feedback of improvements or possible changes for improving user experience. 
