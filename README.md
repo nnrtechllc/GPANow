@@ -44,6 +44,8 @@ In the development of GPANow, we prioritize clear communication and organization
 - Our codebase is formatted in a consistent and organized manner, following industry-standard formatting guidelines.
 - Proper indentation, spacing, and code structure improve readability and make the codebase more accessible to developers.
 
+- ![C54FB917-AECB-4A46-88E6-A4B443FB9079](https://github.com/nnrtechllc/GPANow/assets/118705082/7f9eb5f4-8b89-46db-b730-d59208873552)
+
 ## Appropriate Use of Classes, Modules, and Components 🧩
 
 - **Classes**: We ensure that each programming element is appropriately utilized and accurately placed within the codebase. Classes are employed to encapsulate related data and methods, promoting the object-oriented principles.
