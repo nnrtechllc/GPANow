@@ -74,7 +74,7 @@ This mobile application was developed in SwiftUI using Xcode 14. Contained withi
 #### Multi-format GPA Display 📊
 - Experience unparalleled versatility with GPANow's multi-format GPA display feature. Whether you prefer data visualization in CSV or JSON formats for seamless integration with external systems, or if you opt for in-app GPA visualization for real-time insights, GPANow offers flexibility tailored to your coding preferences. Empower yourself with the ability to access and analyze your GPA data in the format that best aligns with your coding workflows, enhancing your capacity for data analysis and interpretation.
 
-#### AI-Powered Assistance 🤖
+#### AI-Powered Assistance (Intelligent Feature)🤖
 - Unlock the potential of GPANow's AI-driven assistance feature, meticulously crafted to provide intelligent support in your academic journey. Harnessing the power of machine learning algorithms, GPANow's AI model analyzes data streams within the application to deliver personalized guidance and insights. From optimizing study schedules to offering targeted recommendations for academic improvement, GPANow's AI assistant empowers users with actionable intelligence derived from coding-based data analysis techniques.
 
 #### Enhanced Learning Opportunities 📚
