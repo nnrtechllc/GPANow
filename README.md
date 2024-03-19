@@ -54,6 +54,8 @@ In the development of GPANow, we prioritize clear communication and organization
 
 - **Components**: Components are employed to create self-contained units of functionality within the application, which abides by the law of encapsulation.
 
+- ![E7F9BFAE-0FB9-4D50-B937-AED065E514D6](https://github.com/nnrtechllc/GPANow/assets/118705082/f59d3997-99f6-47b9-804d-ce362cc7d64e)
+
 ## User Input Validation 🛡️
 
 - **Syntactical Validation**: We've incorporated syntactical validation methods to ensure that the data entered by users conforms to the expected format and structure. For example, when users input their grades, we verify that they're using the correct format, such as letter grades or numerical scores.
